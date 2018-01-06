@@ -5,7 +5,7 @@
     },
      "action": {
          "type": "css-display-none",
-         "selector": "#related, #movie_player > div.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles, #page-manager > ytd-browse[page-subtype=home], #items > ytd-guide-entry-renderer:nth-child(1), #items > ytd-guide-entry-renderer:nth-child(2)"
+         "selector": "#items > ytd-guide-entry-renderer:nth-child(1), #items > ytd-guide-entry-renderer:nth-child(2), #related, #page-manager > ytd-browse[page-subtype=home], #movie_player > div.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles"
     }
  }
 ]
