@@ -18,14 +18,14 @@ to the Home and Trending page.
 ### Watching Video
 Before | After
 ------------ | -------------
-![Watching Video Before Image](https://friedpigeon.github.io/blog/images/watch-video-before.jpeg) | ![Watching Video After Image](https://friedpigeon.github.io/blog/images/watch-video-after.jpeg)
+![Watching Video Before Image](https://robertjeffs.github.io/blog/images/watch-video-before.jpeg) | ![Watching Video After Image](https://robertjeffs.github.io/blog/images/watch-video-after.jpeg)
 
 ### End Video 
 Before | After
 ------------ | -------------
-![End Video Before Image](https://friedpigeon.github.io/blog/images/end-video-before.jpeg) | ![End Video After Image](https://friedpigeon.github.io/blog/images/end-video-after.jpeg)
+![End Video Before Image](https://robertjeffs.github.io/blog/images/end-video-before.jpeg) | ![End Video After Image](https://robertjeffs.github.io/blog/images/end-video-after.jpeg)
 
 ### Home Page 
 Before | After
 ------------ | -------------
-![Home Before Image](https://friedpigeon.github.io/blog/images/home-before.jpeg) | ![Home Page After Image](https://friedpigeon.github.io/blog/images/home-after.jpeg)
+![Home Before Image](https://robertjeffs.github.io/blog/images/home-before.jpeg) | ![Home Page After Image](https://robertjeffs.github.io/blog/images/home-after.jpeg)
