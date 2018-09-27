@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Robert Jeffs</string>
 	<key>Builder Version</key>
-	<string>13604.4.7.1.3</string>
+	<string>14606.1.36.1.9</string>
 	<key>CFBundleDisplayName</key>
 	<string>Distraction Blocker for YouTube</string>
 	<key>CFBundleIdentifier</key>
@@ -13,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1</string>
+	<string>1.2</string>
 	<key>CFBundleVersion</key>
-	<string>1.1</string>
+	<string>1.2</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Database Quota</key>
@@ -29,7 +29,7 @@
 	<key>Description</key>
 	<string>Removes distractions from YouTube.</string>
 	<key>DeveloperIdentifier</key>
-	<string>W9AT75TA27</string>
+	<string>0000000000</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
